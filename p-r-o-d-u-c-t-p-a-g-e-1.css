@@ -1,0 +1,446 @@
+.product-page-1-child {
+  position: absolute;
+  top: 803px;
+  left: 549px;
+  width: 377px;
+  height: 377px;
+}
+.product-page-1-item {
+  position: absolute;
+  top: 405px;
+  left: 749px;
+  width: 567px;
+  height: 567px;
+}
+.product-page-1-inner {
+  position: absolute;
+  top: 0;
+  left: 1012px;
+  width: 998px;
+  height: 998px;
+}
+.icon37,
+.sony-camera-1-134 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 390px;
+  height: 306px;
+  object-fit: cover;
+}
+.icon37 {
+  top: 147px;
+  left: 573px;
+  width: 226px;
+  height: 55px;
+}
+.reviews30 {
+  position: absolute;
+  top: 169px;
+  left: 810px;
+  line-height: 116.02%;
+  cursor: pointer;
+}
+.span70 {
+  font-size: var(--font-size-mid);
+  text-decoration: line-through;
+  color: var(--color-gray-200);
+}
+.off71 {
+  font-size: var(--font-size-lg);
+}
+.get-it-by-container34,
+.off70 {
+  position: absolute;
+  line-height: 116.02%;
+}
+.off70 {
+  top: 208px;
+  left: 525px;
+  display: inline-block;
+  width: 212px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.get-it-by-container34 {
+  top: 252px;
+  left: 521px;
+}
+.blank-line34 {
+  margin: 0;
+}
+.blank-line34,
+.span71 {
+  font-size: var(--font-size-4xl);
+}
+.p34 {
+  margin: 0;
+  font-size: var(--font-size-8xl);
+}
+.sony-alpha-ilce-7m4-container34 {
+  position: absolute;
+  top: 0;
+  left: 520px;
+  line-height: 116.02%;
+  display: inline-block;
+  width: 942px;
+  height: 143px;
+  font-size: var(--font-size-11xl);
+}
+.sony-camera-1-1-parent32 {
+  position: absolute;
+  top: 252px;
+  left: 103px;
+  width: 1462px;
+  height: 306px;
+  font-size: var(--font-size-4xl);
+}
+.buy-now-button-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-khaki);
+  width: 519px;
+  height: 79px;
+}
+.buy-now {
+  position: absolute;
+  top: 11px;
+  left: 157px;
+  line-height: 116.02%;
+  display: inline-block;
+  width: 247.07px;
+}
+.buy-now-button1 {
+  position: absolute;
+  top: 610px;
+  left: 493px;
+  width: 519px;
+  height: 79px;
+  cursor: pointer;
+  font-size: var(--font-size-31xl);
+}
+.buy-now-button-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-khaki);
+  width: 593px;
+  height: 79px;
+}
+.add-to-cart {
+  position: absolute;
+  top: 11px;
+  left: 155px;
+  line-height: 116.02%;
+  display: inline-block;
+  width: 282.3px;
+}
+.buy-now-button2 {
+  position: absolute;
+  top: 604px;
+  left: 1035px;
+  width: 593px;
+  height: 79px;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-31xl);
+}
+.specifications {
+  position: absolute;
+  top: 739px;
+  left: 498px;
+  font-size: var(--font-size-13xl);
+  line-height: 116.02%;
+  display: inline-block;
+  width: 336px;
+  height: 48px;
+}
+.brand-sony {
+  margin: 0;
+}
+.description {
+  top: 808px;
+  left: 498px;
+  font-size: var(--font-size-13xl);
+  width: 903px;
+  height: 372px;
+}
+.description,
+.related-products,
+.sony-alpha-ilce-7m4-container35 {
+  position: absolute;
+  line-height: 116.02%;
+  display: inline-block;
+}
+.related-products {
+  top: 1277px;
+  left: 88px;
+  font-size: var(--font-size-29xl);
+  width: 410px;
+  height: 58px;
+}
+.sony-alpha-ilce-7m4-container35 {
+  top: 306px;
+  left: 0;
+  width: 390px;
+  height: 386px;
+}
+.related-products-single {
+  position: absolute;
+  top: 1404px;
+  left: 214px;
+  width: 390px;
+  height: 692px;
+}
+.related-products-single1,
+.related-products-single2,
+.right-arrow-3 {
+  position: absolute;
+  top: 1404px;
+  left: 681px;
+  width: 390px;
+  height: 692px;
+}
+.related-products-single2,
+.right-arrow-3 {
+  left: 1161px;
+}
+.right-arrow-3 {
+  top: 1745px;
+  left: 1597px;
+  width: 74px;
+  height: 53px;
+  object-fit: cover;
+}
+.div55,
+.qty4 {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  line-height: 20px;
+}
+.div55 {
+  left: 9px;
+  display: inline-block;
+  width: 42px;
+}
+.qty-parent2,
+.wrapper2 {
+  position: absolute;
+  height: 32px;
+}
+.wrapper2 {
+  top: 0;
+  left: 63px;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 63px;
+  overflow: hidden;
+}
+.qty-parent2 {
+  top: 13px;
+  left: 13px;
+  width: 126px;
+}
+.quantity,
+.quantity-inner {
+  position: absolute;
+  width: 151px;
+  height: 57px;
+}
+.quantity-inner {
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.quantity {
+  top: 501px;
+  left: 950px;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-lexend-deca);
+}
+.contact-us16,
+.help-support16,
+.home17 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+}
+.contact-us16,
+.help-support16 {
+  left: 342px;
+}
+.contact-us16 {
+  left: 587px;
+}
+.home-parent13 {
+  position: absolute;
+  top: 35px;
+  left: 309px;
+  width: 736px;
+  height: 29px;
+  cursor: pointer;
+}
+.header-child26 {
+  position: absolute;
+  height: 58.97%;
+  width: 5.3%;
+  top: 8.51%;
+  right: 94.7%;
+  bottom: 32.52%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.deo-dio32 {
+  position: absolute;
+  top: 7px;
+  left: 82px;
+  letter-spacing: 0.04em;
+  line-height: 70px;
+  font-weight: 900;
+  display: inline-block;
+  width: 180px;
+  height: 73px;
+}
+.phmagnifying-glass-icon15 {
+  position: absolute;
+  top: 20px;
+  left: 1354px;
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+}
+.header-child27 {
+  position: absolute;
+  top: 13px;
+  left: 1354px;
+  background-color: var(--color-darkgray);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 232px;
+  height: 51px;
+}
+.user-profile-png-free-download-icon15 {
+  position: absolute;
+  top: 21px;
+  left: 1097px;
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.products23 {
+  position: relative;
+}
+.option26 {
+  position: absolute;
+  height: 94.68%;
+  top: 2.66%;
+  bottom: 2.66%;
+  left: calc(50% - 88.5px);
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-6xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.dropdown-menu-compdefaultno-child19 {
+  position: absolute;
+  height: 18.83%;
+  width: 10.25%;
+  top: 41.77%;
+  right: 1.29%;
+  bottom: 39.4%;
+  left: 88.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dropdown-menu-compdefaultno22 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  cursor: pointer;
+}
+.dropdown-menu-comp22 {
+  position: absolute;
+  top: 0;
+  left: 421px;
+  width: 182px;
+  height: 94px;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-inter);
+}
+.header15 {
+  position: absolute;
+  height: 94%;
+  width: 100%;
+  top: 3%;
+  right: 0;
+  bottom: 3%;
+  left: 0;
+  font-family: var(--text);
+}
+.cart-2-icon15,
+.top-bar15 {
+  position: absolute;
+  height: 100px;
+}
+.cart-2-icon15 {
+  top: 0;
+  left: 1156px;
+  width: 161.94px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.top-bar15 {
+  top: 50px;
+  left: 71px;
+  width: 1586px;
+  font-size: var(--text-size);
+  font-family: var(--font-roboto);
+}
+.product-page-1 {
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  box-shadow: 30px 30px 20px rgba(0, 0, 0, 0.25);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 100%;
+  height: 2400px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+
+input[type="text"]{
+  font-size: 20px;
+  opacity: 1;
+}
+
+.searchcod {
+  position: absolute;
+  top: 20px;
+  left: 1354px;
+  width: 250px;
+  height: 50px;
+  overflow: hidden;
+  opacity: 0.5;
+  border:0px;
+}

@@ -1,0 +1,261 @@
+.cod-confirmation-child {
+  position: absolute;
+  top: 803px;
+  left: 549px;
+  width: 377px;
+  height: 377px;
+}
+.cod-confirmation-item {
+  position: absolute;
+  top: 405px;
+  left: 749px;
+  width: 567px;
+  height: 567px;
+}
+.cod-confirmation-inner {
+  position: absolute;
+  top: 0;
+  left: 1012px;
+  width: 998px;
+  height: 998px;
+}
+.contact-us19,
+.help-support19,
+.home20 {
+  position: absolute;
+  top: 0;
+  font-weight: 500;
+}
+.home20 {
+  left: 0;
+  cursor: pointer;
+}
+.contact-us19,
+.help-support19 {
+  left: 342px;
+}
+.contact-us19 {
+  left: 587px;
+}
+.header-child32,
+.home-parent16 {
+  position: absolute;
+  top: 35px;
+  left: 309px;
+  width: 736px;
+  height: 29px;
+}
+.header-child32 {
+  height: 58.97%;
+  width: 5.3%;
+  top: 8.51%;
+  right: 94.7%;
+  bottom: 32.52%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.deo-dio39 {
+  margin: 0;
+}
+.deo-dio38 {
+  position: absolute;
+  top: 7px;
+  left: 82px;
+  letter-spacing: 0.04em;
+  line-height: 70px;
+  font-weight: 900;
+  display: inline-block;
+  width: 180px;
+  height: 73px;
+}
+.phmagnifying-glass-icon18 {
+  position: absolute;
+  top: 20px;
+  left: 2054px;
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+}
+
+input[type="text"]{
+  font-size: 20px;
+  opacity: 1;
+}
+
+.searchcod {
+  position: absolute;
+  top: 20px;
+  left: 1354px;
+  width: 250px;
+  height: 50px;
+  overflow: hidden;
+  opacity: 0.5;
+  border:0px;
+}
+
+.header-child33 {
+  position: absolute;
+  top: 13px;
+  left: 1354px;
+  background-color: var(--color-darkgray);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 232px;
+  height: 51px;
+}
+.user-profile-png-free-download-icon18 {
+  position: absolute;
+  top: 21px;
+  left: 1097px;
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.products26 {
+  position: relative;
+}
+.option29 {
+  position: absolute;
+  height: 94.68%;
+  top: 2.66%;
+  bottom: 2.66%;
+  left: calc(50% - 88.5px);
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-6xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.dropdown-menu-compdefaultno-child22 {
+  position: absolute;
+  height: 18.83%;
+  width: 10.25%;
+  top: 41.77%;
+  right: 1.29%;
+  bottom: 39.4%;
+  left: 88.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dropdown-menu-compdefaultno25 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.dropdown-menu-comp25 {
+  position: absolute;
+  top: 0;
+  left: 421px;
+  width: 182px;
+  height: 94px;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-inter);
+}
+.header18 {
+  position: absolute;
+  height: 94%;
+  width: 100%;
+  top: 3%;
+  right: 0;
+  bottom: 3%;
+  left: 0;
+  font-family: var(--text);
+}
+.cart-2-icon18,
+.top-bar18 {
+  position: absolute;
+  height: 100px;
+}
+.cart-2-icon18 {
+  top: 0;
+  left: 1156px;
+  width: 161.94px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.top-bar18 {
+  top: 50px;
+  left: 71px;
+  width: 1586px;
+  font-family: var(--font-roboto);
+}
+.confirm-cash-on {
+  position: absolute;
+  top: 234px;
+  left: 172px;
+  font-size: var(--font-size-31xl);
+}
+.confirm-for-cash {
+  position: absolute;
+  top: 363px;
+  left: 172px;
+  font-size: 35px;
+}
+.checkbox-1-icon {
+  position: absolute;
+  top: 488px;
+  left: 140px;
+  width: 113px;
+  height: 109px;
+  object-fit: cover;
+}
+.i-agree-and {
+  position: absolute;
+  top: 520px;
+  left: 253px;
+  font-size: 38px;
+}
+.rectangle47 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(90deg, #9b77e7, #1600a0 99.99%);
+  width: 559px;
+  height: 50px;
+}
+.confirm-and-place {
+  position: absolute;
+  top: 15px;
+  left: 19px;
+  line-height: 20px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 507px;
+  height: 15px;
+}
+.login-btn16 {
+  position: absolute;
+  top: 722px;
+  left: 508px;
+  width: 559px;
+  height: 50px;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-lexend-deca);
+}
+.cod-confirmation {
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  box-shadow: 30px 30px 20px rgba(0, 0, 0, 0.25);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 100%;
+  height: 1117px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--text-size);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}

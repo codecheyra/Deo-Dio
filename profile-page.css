@@ -1,0 +1,366 @@
+.profile-page-child {
+  position: absolute;
+  top: 803px;
+  left: 549px;
+  width: 377px;
+  height: 377px;
+}
+.profile-page-item {
+  position: absolute;
+  top: 405px;
+  left: 749px;
+  width: 567px;
+  height: 567px;
+}
+.profile-page-inner {
+  position: absolute;
+  top: 0;
+  left: 1012px;
+  width: 998px;
+  height: 998px;
+}
+.pen-1-icon,
+.profile-icon-1 {
+  position: absolute;
+  object-fit: cover;
+}
+.profile-icon-1 {
+  top: 412px;
+  left: 114px;
+  border-radius: var(--br-6xl);
+  width: 253px;
+  height: 265px;
+}
+.pen-1-icon {
+  top: 431px;
+  left: 314px;
+  width: 42px;
+  height: 38px;
+}
+.profile-page-child1,
+.profile-page-child2,
+.profile-page-child3 {
+  position: absolute;
+  top: 340px;
+  left: 594px;
+  border-radius: var(--br-9xl);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 743px;
+  height: 89px;
+}
+.profile-page-child2,
+.profile-page-child3 {
+  top: 514px;
+  left: 590px;
+  width: 747px;
+}
+.profile-page-child3 {
+  top: 692px;
+}
+.pen-2-icon3,
+.pen-3-icon,
+.pen-4-icon {
+  position: absolute;
+  top: 355px;
+  left: 1276px;
+  width: 42px;
+  height: 38px;
+  object-fit: cover;
+}
+.pen-3-icon,
+.pen-4-icon {
+  top: 526px;
+}
+.pen-4-icon {
+  top: 705px;
+}
+.email-id,
+.phone-no,
+.username20 {
+  position: absolute;
+  top: 374px;
+  left: 623px;
+  display: inline-block;
+  width: 224px;
+  height: 49px;
+}
+.email-id,
+.phone-no {
+  top: 533px;
+  left: 625px;
+}
+.phone-no {
+  top: 712px;
+  left: 623px;
+}
+.rectangle40 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(90deg, #9b77e7, #1600a0 99.99%);
+  width: 510.95px;
+  height: 51.21px;
+  cursor: pointer;
+}
+.save {
+  position: absolute;
+  top: 14.79px;
+  left: 218.01px;
+  line-height: 20px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 100px;
+  height: 22.76px;
+}
+.login-btn-wrapper {
+  position: absolute;
+  top: 881px;
+  left: 718px;
+  width: 510.95px;
+  height: 51.21px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-lexend-deca);
+}
+.logout-btn,
+.logout-btn-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 510.95px;
+  height: 51.21px;
+}
+.logout-btn-wrapper {
+  top: 972px;
+  left: 718px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-lexend-deca);
+}
+.rectangle42 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(90deg, rgba(247, 246, 251, 0.06), #1600a0 99.99%);
+  width: 257px;
+  height: 50px;
+  cursor: pointer;
+}
+.your-orders2 {
+  position: absolute;
+  top: 15px;
+  left: 4px;
+  line-height: 20px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 238px;
+  height: 21px;
+}
+.login-btn-container,
+.login-btn15 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 257px;
+  height: 50px;
+}
+.login-btn-container {
+  top: 753px;
+  left: 110px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-lexend-deca);
+}
+.contact-us15,
+.help-support15,
+.home16 {
+  position: absolute;
+  top: 0;
+  font-weight: 500;
+}
+.home16 {
+  left: 0;
+  cursor: pointer;
+}
+.contact-us15,
+.help-support15 {
+  left: 342px;
+}
+.contact-us15 {
+  left: 587px;
+}
+.header-child24,
+.home-parent12 {
+  position: absolute;
+  top: 35px;
+  left: 309px;
+  width: 736px;
+  height: 29px;
+}
+.header-child24 {
+  height: 58.97%;
+  width: 5.3%;
+  top: 8.51%;
+  right: 94.7%;
+  bottom: 32.52%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.deo-dio31 {
+  margin: 0;
+}
+.deo-dio30 {
+  position: absolute;
+  top: 7px;
+  left: 82px;
+  letter-spacing: 0.04em;
+  line-height: 70px;
+  font-weight: 900;
+  display: inline-block;
+  width: 180px;
+  height: 73px;
+}
+.phmagnifying-glass-icon14 {
+  position: absolute;
+  top: 20px;
+  left: 1354px;
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+}
+.header-child25 {
+  position: absolute;
+  top: 13px;
+  left: 1354px;
+  background-color: var(--color-darkgray);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 232px;
+  height: 51px;
+}
+.user-profile-png-free-download-icon14 {
+  position: absolute;
+  top: 21px;
+  left: 1097px;
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.products22 {
+  position: relative;
+}
+.option25 {
+  position: absolute;
+  height: 94.68%;
+  top: 2.66%;
+  bottom: 2.66%;
+  left: calc(50% - 88.5px);
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-6xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.dropdown-menu-compdefaultno-child18 {
+  position: absolute;
+  height: 18.83%;
+  width: 10.25%;
+  top: 41.77%;
+  right: 1.29%;
+  bottom: 39.4%;
+  left: 88.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dropdown-menu-compdefaultno21 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  cursor: pointer;
+}
+.dropdown-menu-comp21 {
+  position: absolute;
+  top: 0;
+  left: 421px;
+  width: 182px;
+  height: 94px;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-inter);
+}
+.header14 {
+  position: absolute;
+  height: 94%;
+  width: 100%;
+  top: 3%;
+  right: 0;
+  bottom: 3%;
+  left: 0;
+  font-family: var(--text);
+}
+.cart-2-icon14,
+.top-bar14 {
+  position: absolute;
+  height: 100px;
+}
+.cart-2-icon14 {
+  top: 0;
+  left: 1156px;
+  width: 161.94px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.top-bar14 {
+  top: 50px;
+  left: 71px;
+  width: 1586px;
+  font-size: var(--text-size);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
+.profile-page {
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  box-shadow: 30px 30px 20px rgba(0, 0, 0, 0.25);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 100%;
+  height: 1117px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-inter);
+}
+
+input[type="text"]{
+  font-size: 20px;
+  opacity: 1;
+}
+
+.searchcod {
+  position: absolute;
+  top: 20px;
+  left: 1354px;
+  width: 250px;
+  height: 50px;
+  overflow: hidden;
+  opacity: 0.5;
+  border:0px;
+}

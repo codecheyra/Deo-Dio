@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-lexend-deca: "Lexend Deca";
+  --font-inter: Inter;
+  --text: "Gothic A1";
+  --font-roboto: Roboto;
+  --font-poppins: Poppins;
+  --font-lato: Lato;
+  --font-montserrat: Montserrat;
+  --font-jost: Jost;
+
+  /* font sizes */
+  --font-size-11xl: 30px;
+  --font-size-13xl: 32px;
+  --font-size-29xl: 48px;
+  --text-size: 24px;
+  --font-size-xl: 20px;
+  --font-size-10xl: 29px;
+  --font-size-sm: 14px;
+  --font-size-base: 16px;
+  --font-size-45xl: 64px;
+  --font-size-4xl: 23px;
+  --font-size-8xl: 27px;
+  --font-size-lg: 18px;
+  --font-size-mid: 17px;
+  --font-size-31xl: 50px;
+  --font-size-6xl: 25px;
+  --font-size-26xl: 45px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-darkgray: rgba(166, 165, 167, 0.04);
+  --color-plum: #b8b0e9;
+  --color-gray-100: rgba(0, 0, 0, 0.24);
+  --color-gray-200: rgba(0, 0, 0, 0.75);
+  --color-gray-300: rgba(0, 0, 0, 0.3);
+  --color-darkslategray: #224957;
+  --color-khaki: #fbda6f;
+
+  /* Gaps */
+  --gap-11xl: 30px;
+
+  /* Paddings */
+  --padding-6xl: 25px;
+
+  /* border radiuses */
+  --br-11xl: 30px;
+  --br-3xs: 10px;
+  --br-15xl: 34px;
+  --br-6xl: 25px;
+  --br-9xl: 28px;
+}

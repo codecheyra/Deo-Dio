@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./debit-card-payment-page.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Gothic A1:wght@900&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Lexend Deca:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Jost:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="debit-card-payment-page">
+      <img
+        class="debit-card-payment-page-child"
+        alt=""
+        src="./public/ellipse-8.svg"
+      /><img
+        class="debit-card-payment-page-item"
+        alt=""
+        src="./public/ellipse-7.svg"
+      /><img
+        class="debit-card-payment-page-inner"
+        alt=""
+        src="./public/ellipse-6.svg"
+      />
+      <div class="delivery-1-group">
+        <img
+          class="delivery-1-icon1"
+          alt=""
+          src="./public/delivery-1@2x.png"
+        /><b class="payment1">PAYMENT</b>
+        <div class="div6">.</div>
+        <div class="username4">
+          <div class="rectangle11"></div>
+          <div class="username5"></div>
+        </div>
+        <div class="username6">
+          <div class="rectangle11"></div>
+          <div class="username5"></div>
+        </div>
+        <div class="div7">0000-0000-0000</div>
+        <div class="qwerty1">qwerty</div>
+        <div class="dd-yyyy1">dd-yyyy</div>
+        <div class="div8">000</div>
+        <div class="password4">
+          <div class="rectangle11"></div>
+          <div class="password5"></div>
+        </div>
+        <div class="password6">
+          <div class="rectangle11"></div>
+          <div class="password5"></div>
+        </div>
+        <div class="login-btn3" id="loginBtnContainer">
+          <div class="rectangle15"></div>
+          <div class="pay-10001">PAY $1000</div>
+        </div>
+        <div class="card-number1">Card Number</div>
+        <div class="name-as-on1">Name as on card</div>
+        <div class="expiry-date1">Expiry date</div>
+        <div class="cvv1">CVV</div>
+      </div>
+      <div class="dropdown-menu-comp5">
+        <div class="rectangle11">
+          <div class="option9"><div class="products5">debit card .</div></div>
+          <img
+            class="dropdown-menu-compdefaultno-child2"
+            alt=""
+            src="./public/vector-14.svg"
+          />
+        </div>
+      </div>
+      <div class="dropdown-menu-comp5">
+        <div
+          class="dropdown-menu-compdefaultno6"
+          id="dropdownMenuCompdefaultnoContainer1"
+        >
+          <div class="option9"><div class="products5">debit card .</div></div>
+          <img
+            class="dropdown-menu-compdefaultno-child2"
+            alt=""
+            src="./public/vector-14.svg"
+          />
+        </div>
+      </div>
+      <div class="top-bar4">
+        <div class="home-parent1">
+          <div class="home5" id="hOMEText">HOME</div>
+          <div class="help-support4">HELP & SUPPORT</div>
+          <div class="contact-us4">CONTACT US</div>
+        </div>
+        <div class="header4">
+          <img class="header-child4" alt="" src="./public/group-22.svg" />
+          <div class="deo-dio8"><p class="deo-dio9">DEO-DIO</p></div>
+          <img
+            class="phmagnifying-glass-icon4"
+            alt=""
+            src="./public/phmagnifyingglass.svg"
+          />
+          <div class="header-child5"></div>
+          <input type="text" id="header-child23" placeholder="search" class="searchcod">
+          <img
+            class="user-profile-png-free-download-icon4"
+            alt=""
+            src="./public/userprofilepngfreedownload-2@2x.png"
+            id="userProfilePNGFreeDownloadIcon"
+          />
+          <div class="dropdown-menu-comp7">
+            <div
+              class="dropdown-menu-compdefaultno6"
+              id="dropdownMenuCompdefaultnoContainer2"
+            >
+              <div class="option11"><div class="products5">products</div></div>
+              <img
+                class="dropdown-menu-compdefaultno-child4"
+                alt=""
+                src="./public/vector-1.svg"
+              />
+            </div>
+          </div>
+        </div>
+        <img
+          class="cart-2-icon4"
+          alt=""
+          src="./public/cart-2@2x.png"
+          id="cart2Image"
+        />
+      </div>
+    </div>
+
+    <script>
+      var loginBtnContainer = document.getElementById("loginBtnContainer");
+      if (loginBtnContainer) {
+        loginBtnContainer.addEventListener("click", function (e) {
+          window.location.href = "./order-details.html";
+        });
+      }
+      
+      var dropdownMenuCompdefaultnoContainer1 = document.getElementById(
+        "dropdownMenuCompdefaultnoContainer1"
+      );
+      if (dropdownMenuCompdefaultnoContainer1) {
+        dropdownMenuCompdefaultnoContainer1.addEventListener("click", function (e) {
+          window.location.href = "./credit-card-payment-page.html";
+        });
+      }
+      
+      var hOMEText = document.getElementById("hOMEText");
+      if (hOMEText) {
+        hOMEText.addEventListener("click", function (e) {
+          window.location.href = "./h-o-m-e-page-after-login.html";
+        });
+      }
+      
+      var userProfilePNGFreeDownloadIcon = document.getElementById(
+        "userProfilePNGFreeDownloadIcon"
+      );
+      if (userProfilePNGFreeDownloadIcon) {
+        userProfilePNGFreeDownloadIcon.addEventListener("click", function (e) {
+          window.location.href = "./profile-page.html";
+        });
+      }
+      
+      var dropdownMenuCompdefaultnoContainer2 = document.getElementById(
+        "dropdownMenuCompdefaultnoContainer2"
+      );
+      if (dropdownMenuCompdefaultnoContainer2) {
+        dropdownMenuCompdefaultnoContainer2.addEventListener("click", function (e) {
+          window.location.href =
+            "./h-o-m-e-page-after-login-and-clicking-on-profile.html";
+        });
+      }
+      
+      var cart2Image = document.getElementById("cart2Image");
+      if (cart2Image) {
+        cart2Image.addEventListener("click", function (e) {
+          window.location.href = "./your-cart-page.html";
+        });
+      }
+      </script>
+  </body>
+</html>

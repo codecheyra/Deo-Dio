@@ -1,0 +1,400 @@
+.reviews-page-child {
+  position: absolute;
+  top: 803px;
+  left: 549px;
+  width: 377px;
+  height: 377px;
+}
+.reviews-page-item {
+  position: absolute;
+  top: 405px;
+  left: 749px;
+  width: 567px;
+  height: 567px;
+}
+.reviews-page-inner {
+  position: absolute;
+  top: 0;
+  left: 1012px;
+  width: 998px;
+  height: 998px;
+}
+.contact-us,
+.help-support,
+.home {
+  position: absolute;
+  top: 0;
+  font-weight: 500;
+}
+.home {
+  left: 0;
+  cursor: pointer;
+}
+.contact-us,
+.help-support {
+  left: 342px;
+}
+.contact-us {
+  left: 587px;
+}
+.home-parent {
+  position: absolute;
+  top: 35px;
+  left: 227px;
+  width: 736px;
+  height: 29px;
+}
+.deo-dio1 {
+  margin: 0;
+}
+.deo-dio {
+  position: absolute;
+  top: 7px;
+  left: 0;
+  letter-spacing: 0.04em;
+  line-height: 70px;
+  font-weight: 900;
+  display: inline-block;
+  width: 180px;
+  height: 73px;
+}
+.phmagnifying-glass-icon {
+  position: absolute;
+  top: 20px;
+  left: 1272px;
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+}
+.header-child {
+  position: absolute;
+  top: 13px;
+  left: 1272px;
+  background-color: var(--color-darkgray);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 232px;
+  height: 51px;
+}
+.user-profile-png-free-download-icon {
+  position: absolute;
+  top: 21px;
+  left: 1015px;
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.products {
+  position: relative;
+}
+.option {
+  position: absolute;
+  height: 94.68%;
+  top: 2.66%;
+  bottom: 2.66%;
+  left: calc(50% - 88.5px);
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-6xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.dropdown-menu-compdefaultno-child {
+  position: absolute;
+  height: 18.83%;
+  width: 10.25%;
+  top: 41.77%;
+  right: 1.29%;
+  bottom: 39.4%;
+  left: 88.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dropdown-menu-compdefaultno {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.dropdown-menu-comp,
+.header {
+  position: absolute;
+  height: 94px;
+}
+.dropdown-menu-comp {
+  top: 0;
+  left: 339px;
+  width: 182px;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-inter);
+}
+.header {
+  top: 3px;
+  left: 0;
+  width: 1504px;
+  font-family: var(--text);
+}
+.cart-2-icon,
+.top-bar {
+  position: absolute;
+  top: 0;
+  height: 100px;
+}
+.cart-2-icon {
+  left: 1074px;
+  width: 161.94px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.top-bar {
+  left: 111px;
+  width: 1504px;
+  font-size: var(--text-size);
+  font-family: var(--font-roboto);
+}
+.group-child {
+  position: absolute;
+  height: 5.27%;
+  width: 5.2%;
+  top: 0.42%;
+  right: 94.8%;
+  bottom: 94.31%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.reviews {
+  position: absolute;
+  top: 201px;
+  left: 95px;
+  font-size: var(--font-size-29xl);
+  display: inline-block;
+  width: 213px;
+  height: 51px;
+}
+.group-inner,
+.group-item,
+.rectangle-div {
+  position: absolute;
+  top: 335px;
+  left: 317px;
+  background-color: var(--color-white);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1030px;
+  height: 320px;
+}
+.group-inner,
+.rectangle-div {
+  top: 656px;
+}
+.rectangle-div {
+  top: 970px;
+}
+.review-1-icon,
+.review-2-icon,
+.review-3-icon {
+  position: absolute;
+  top: 372px;
+  left: 317px;
+  width: 95px;
+  height: 90px;
+  object-fit: cover;
+}
+.review-2-icon,
+.review-3-icon {
+  top: 693px;
+}
+.review-3-icon {
+  top: 1007px;
+}
+.allu-arjun,
+.allu-arjun1,
+.allu-arjun2,
+.this-is-an,
+.this-is-an1,
+.this-is-an2 {
+  position: absolute;
+  top: 470px;
+  left: 450px;
+  display: inline-block;
+  width: 876px;
+  height: 228px;
+}
+.allu-arjun,
+.allu-arjun1,
+.allu-arjun2,
+.this-is-an1,
+.this-is-an2 {
+  top: 791px;
+}
+.allu-arjun,
+.allu-arjun1,
+.allu-arjun2,
+.this-is-an2 {
+  top: 1105px;
+}
+.allu-arjun,
+.allu-arjun1,
+.allu-arjun2 {
+  top: 382px;
+  left: 444px;
+  font-weight: 600;
+  width: 184px;
+  height: 45px;
+}
+.allu-arjun1,
+.allu-arjun2 {
+  top: 703px;
+}
+.allu-arjun2 {
+  top: 1017px;
+}
+.icon,
+.icon1,
+.icon2 {
+  position: absolute;
+  height: 3.89%;
+  width: 13.99%;
+  top: 26.29%;
+  right: 42.72%;
+  bottom: 69.83%;
+  left: 43.28%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.icon1,
+.icon2 {
+  top: 48.97%;
+  bottom: 47.15%;
+}
+.icon2 {
+  top: 71.16%;
+  bottom: 24.96%;
+}
+.div,
+.div1,
+.div2 {
+  position: absolute;
+  top: 394px;
+  left: 632px;
+  display: inline-block;
+  width: 68px;
+  height: 19px;
+}
+.div1,
+.div2 {
+  top: 715px;
+}
+.div2 {
+  top: 1029px;
+}
+.rectangle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(90deg, #9b77e7, #1600a0 99.99%);
+  width: 510.95px;
+  height: 51.21px;
+}
+.back-to-product {
+  position: absolute;
+  top: 18px;
+  left: 126px;
+  line-height: 20px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 272px;
+  height: 16px;
+}
+.login-btn {
+  position: absolute;
+  top: 1364px;
+  left: 545px;
+  width: 510.95px;
+  height: 51.21px;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-lexend-deca);
+}
+.bin-1-icon,
+.pen-2-icon {
+  position: absolute;
+  top: 1.2px;
+  left: 0;
+  width: 47.53px;
+  height: 46.8px;
+  object-fit: cover;
+}
+.pen-2-icon {
+  top: 0;
+  left: 76.05px;
+  width: 33.95px;
+}
+.bin-1-container,
+.bin-1-group,
+.bin-1-parent,
+.top-bar-parent {
+  position: absolute;
+  top: 355px;
+  left: 1188px;
+  width: 110px;
+  height: 48px;
+}
+.bin-1-container,
+.bin-1-group,
+.top-bar-parent {
+  top: 679px;
+}
+.bin-1-container,
+.top-bar-parent {
+  top: 987px;
+}
+.top-bar-parent {
+  top: 50px;
+  left: 42px;
+  width: 1615px;
+  height: 1415.21px;
+}
+.reviews-page {
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  box-shadow: 30px 30px 20px rgba(0, 0, 0, 0.25);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 100%;
+  height: 1775px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+
+input[type="text"]{
+  font-size: 20px;
+  opacity: 1;
+}
+
+.searchcod {
+  position: absolute;
+  top: 20px;
+  left: 1354px;
+  width: 250px;
+  height: 50px;
+  overflow: hidden;
+  opacity: 0.5;
+  border:0px;
+}

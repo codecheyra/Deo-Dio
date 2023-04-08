@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./profile-page.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Gothic A1:wght@900&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Lexend Deca:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Jost:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="profile-page">
+      <img class="profile-page-child" alt="" src="./public/ellipse-8.svg" /><img
+        class="profile-page-item"
+        alt=""
+        src="./public/ellipse-7.svg"
+      /><img
+        class="profile-page-inner"
+        alt=""
+        src="./public/ellipse-6.svg"
+      /><img
+        class="profile-icon-1"
+        alt=""
+        src="./public/profile-icon-1@2x.png"
+      /><img class="pen-1-icon" alt="" src="./public/pen-1@2x.png" />
+      <div class="profile-page-child1"></div>
+      <div class="profile-page-child2"></div>
+      <div class="profile-page-child3"></div>
+      <img class="pen-2-icon3" alt="" src="./public/pen-21@2x.png" /><img
+        class="pen-3-icon"
+        alt=""
+        src="./public/pen-21@2x.png"
+      /><img class="pen-4-icon" alt="" src="./public/pen-21@2x.png" />
+      <div class="username20">username</div>
+      <div class="email-id">email-id</div>
+      <div class="phone-no">phone-no</div>
+      <div class="login-btn-wrapper">
+        <div class="logout-btn">
+          <div class="rectangle40" id="rectangle3"></div>
+          <div class="save">Save</div>
+        </div>
+      </div>
+      <div class="logout-btn-wrapper">
+        <div class="logout-btn">
+          <div class="rectangle40" id="rectangle4"></div>
+          <div class="save">Logout</div>
+        </div>
+      </div>
+      <div class="login-btn-container">
+        <div class="login-btn15">
+          <div class="rectangle42" id="rectangle5"></div>
+          <div class="your-orders2">Your Orders</div>
+        </div>
+      </div>
+      <div class="top-bar14">
+        <div class="home-parent12">
+          <div class="home16" id="hOMEText">HOME</div>
+          <div class="help-support15">HELP & SUPPORT</div>
+          <div class="contact-us15">CONTACT US</div>
+        </div>
+        <div class="header14">
+          <img class="header-child24" alt="" src="./public/group-28.svg" />
+          <div class="deo-dio30"><p class="deo-dio31">DEO-DIO</p></div>
+          <img
+            class="phmagnifying-glass-icon14"
+            alt=""
+            src="./public/phmagnifyingglass.svg"
+          />
+          <div class="header-child25"></div>
+          <input type="text" id="header-child23" placeholder="search" class="searchcod">
+          <img
+            class="user-profile-png-free-download-icon14"
+            alt=""
+            src="./public/userprofilepngfreedownload-2@2x.png"
+            id="userProfilePNGFreeDownloadIcon"
+          />
+          <div class="dropdown-menu-comp21">
+            <div
+              class="dropdown-menu-compdefaultno21"
+              id="dropdownMenuCompdefaultnoContainer"
+            >
+              <div class="option25"><div class="products22">products</div></div>
+              <img
+                class="dropdown-menu-compdefaultno-child18"
+                alt=""
+                src="./public/vector-1.svg"
+              />
+            </div>
+          </div>
+        </div>
+        <img
+          class="cart-2-icon14"
+          alt=""
+          src="./public/cart-2@2x.png"
+          id="cart2Image"
+        />
+      </div>
+    </div>
+
+    <script>
+      var rectangle3 = document.getElementById("rectangle3");
+      if (rectangle3) {
+        rectangle3.addEventListener("click", function (e) {
+          window.location.href = "./h-o-m-e-page-after-login.html";
+        });
+      }
+      
+      var rectangle4 = document.getElementById("rectangle4");
+      if (rectangle4) {
+        rectangle4.addEventListener("click", function (e) {
+          window.location.href = "./homelogin-page.html";
+        });
+      }
+      
+      var rectangle5 = document.getElementById("rectangle5");
+      if (rectangle5) {
+        rectangle5.addEventListener("click", function (e) {
+          window.location.href = "./your-orders.html";
+        });
+      }
+      
+      var hOMEText = document.getElementById("hOMEText");
+      if (hOMEText) {
+        hOMEText.addEventListener("click", function (e) {
+          window.location.href = "./h-o-m-e-page-after-login.html";
+        });
+      }
+      
+      var userProfilePNGFreeDownloadIcon = document.getElementById(
+        "userProfilePNGFreeDownloadIcon"
+      );
+      if (userProfilePNGFreeDownloadIcon) {
+        userProfilePNGFreeDownloadIcon.addEventListener("click", function (e) {
+          window.location.href = "profile-page.html";
+        });
+      }
+      
+      var dropdownMenuCompdefaultnoContainer = document.getElementById(
+        "dropdownMenuCompdefaultnoContainer"
+      );
+      if (dropdownMenuCompdefaultnoContainer) {
+        dropdownMenuCompdefaultnoContainer.addEventListener("click", function (e) {
+          window.location.href =
+            "./h-o-m-e-page-after-login-and-clicking-on-profile.html";
+        });
+      }
+      
+      var cart2Image = document.getElementById("cart2Image");
+      if (cart2Image) {
+        cart2Image.addEventListener("click", function (e) {
+          window.location.href = "./your-cart-page.html";
+        });
+      }
+      </script>
+  </body>
+</html>

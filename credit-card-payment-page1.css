@@ -1,0 +1,474 @@
+.credit-card-payment-page-child2 {
+  position: absolute;
+  top: 803px;
+  left: 549px;
+  width: 377px;
+  height: 377px;
+}
+.credit-card-payment-page-child3 {
+  position: absolute;
+  top: 405px;
+  left: 749px;
+  width: 567px;
+  height: 567px;
+}
+.credit-card-payment-page-child4 {
+  position: absolute;
+  top: 0;
+  left: 1012px;
+  width: 998px;
+  height: 998px;
+}
+.delivery-1-icon4 {
+  position: absolute;
+  top: 301px;
+  left: 0;
+  width: 480.12px;
+  height: 367px;
+  object-fit: cover;
+}
+.div52,
+.payment4 {
+  position: absolute;
+  display: inline-block;
+}
+.payment4 {
+  top: 0;
+  left: 746px;
+  font-size: var(--font-size-45xl);
+  line-height: 70px;
+  font-family: var(--font-poppins);
+  background: linear-gradient(90deg, #9b77e7, #1600a0 99.99%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 361.07px;
+  height: 70px;
+}
+.div52 {
+  top: 152px;
+  left: 654px;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslategray);
+  width: 591px;
+  height: 22.76px;
+}
+.rectangle35 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.username17 {
+  position: absolute;
+  height: 44.44%;
+  width: 19.57%;
+  top: 26.67%;
+  left: 6%;
+  line-height: 20px;
+  display: none;
+  opacity: 0.5;
+}
+.username16,
+.username18 {
+  position: absolute;
+  top: 274px;
+  left: 712px;
+  width: 510.95px;
+  height: 51.21px;
+  font-size: var(--font-size-sm);
+}
+.username18 {
+  top: 503px;
+  left: 715px;
+}
+.div53 {
+  position: absolute;
+  top: 290px;
+  left: 720px;
+  line-height: 20px;
+  display: inline-block;
+  width: 263px;
+  height: 21px;
+}
+.dd-yyyy3,
+.div53,
+.qwerty4 {
+  color: var(--color-black-300);
+}
+.qwerty4 {
+  position: absolute;
+  top: 515px;
+  left: 723px;
+  line-height: 20px;
+  display: inline-block;
+  width: 500px;
+  height: 39px;
+  opacity: 1px;
+}
+.dd-yyyy3 {
+  top: 401px;
+  left: 722px;
+  width: 121px;
+  height: 15px;
+}
+.dd-yyyy3,
+.div54,
+/* .password13 {
+  position: absolute;
+  line-height: 20px;
+  display: inline-block;
+  height: 10;
+  width: 30;
+  top: 60%;
+  left: 80%;
+  opacity: 1;
+} */
+.div54 {
+  top: 402px;
+  left: 1004px;
+  color: var(--color-gray-300);
+  width: 66px;
+  height: 22px;
+}
+/* .password13 {
+  height: 44.44%;
+  width: 19.57%;
+  top: 26.67%;
+  left: 6%;
+  opacity: 0.5;
+} */
+.password12,
+.password14 {
+  position: absolute;
+  top: 395px;
+  left: 706px;
+  width: 221px;
+  height: 32px;
+  font-size: var(--font-size-sm);
+}
+.password14 {
+  top: 396px;
+  left: 988px;
+}
+.rectangle39 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(90deg, #9b77e7, #1600a0 99.99%);
+  width: 510.95px;
+  height: 51.21px;
+}
+.pay-10004 {
+  position: absolute;
+  top: 15px;
+  left: 170px;
+  line-height: 20px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 193px;
+  height: 16px;
+}
+.login-btn13 {
+  position: absolute;
+  top: 618px;
+  left: 720px;
+  width: 510.95px;
+  height: 51.21px;
+  cursor: pointer;
+}
+.card-number3 {
+  top: 242px;
+  left: 706px;
+  display: inline-block;
+  width: 137px;
+  height: 17px;
+}
+.card-number3,
+.cvv3,
+.expiry-date3,
+.name-as-on3 {
+  position: absolute;
+  font-size: var(--font-size-xl);
+  line-height: 20px;
+}
+.name-as-on3 {
+  top: 471px;
+  left: 709px;
+  display: inline-block;
+  width: 173px;
+  height: 17px;
+}
+.cvv3,
+.expiry-date3 {
+  top: 360px;
+  left: 706px;
+}
+.cvv3 {
+  top: 361px;
+  left: 1023px;
+}
+.delivery-1-parent1 {
+  position: absolute;
+  top: 158px;
+  left: 83px;
+  width: 1245px;
+  height: 669.21px;
+  text-align: center;
+}
+.products19 {
+  position: relative;
+}
+.option22 {
+  position: absolute;
+  height: 114.1%;
+  top: -7.05%;
+  bottom: -7.05%;
+  left: calc(50% - 237.5px);
+  border-radius: var(--br-15xl);
+  background-color: var(--color-plum);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-6xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.dropdown-menu-compdefaultno-child15 {
+  position: absolute;
+  height: 18.71%;
+  width: 9.11%;
+  top: 40.88%;
+  right: 1.87%;
+  bottom: 40.41%;
+  left: 89.02%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dropdown-menu-comp18 {
+  position: absolute;
+  top: 255px;
+  left: 776px;
+  width: 492px;
+  height: 78px;
+  cursor: pointer;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-inter);
+}
+.contact-us13,
+.help-support13,
+.home14 {
+  position: absolute;
+  top: 0;
+  font-weight: 500;
+}
+.home14 {
+  left: 0;
+  cursor: pointer;
+}
+.contact-us13,
+.help-support13 {
+  left: 342px;
+}
+.contact-us13 {
+  left: 587px;
+}
+.header-child20,
+.home-parent10 {
+  position: absolute;
+  top: 35px;
+  left: 309px;
+  width: 736px;
+  height: 29px;
+}
+.header-child20 {
+  height: 58.97%;
+  width: 5.3%;
+  top: 8.51%;
+  right: 94.7%;
+  bottom: 32.52%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.deo-dio27 {
+  margin: 0;
+}
+.deo-dio26 {
+  position: absolute;
+  top: 7px;
+  left: 82px;
+  letter-spacing: 0.04em;
+  line-height: 70px;
+  font-weight: 900;
+  display: inline-block;
+  width: 180px;
+  height: 73px;
+}
+.phmagnifying-glass-icon12 {
+  position: absolute;
+  top: 20px;
+  left: 1354px;
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+}
+.header-child21 {
+  position: absolute;
+  top: 13px;
+  left: 1354px;
+  background-color: var(--color-darkgray);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 232px;
+  height: 51px;
+}
+.user-profile-png-free-download-icon12 {
+  position: absolute;
+  top: 21px;
+  left: 1097px;
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.option23 {
+  position: absolute;
+  height: 94.68%;
+  top: 2.66%;
+  bottom: 2.66%;
+  left: calc(50% - 88.5px);
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-6xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.dropdown-menu-compdefaultno-child16 {
+  position: absolute;
+  height: 18.83%;
+  width: 10.25%;
+  top: 41.77%;
+  right: 1.29%;
+  bottom: 39.4%;
+  left: 88.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dropdown-menu-comp19 {
+  position: absolute;
+  top: 0;
+  left: 421px;
+  width: 182px;
+  height: 94px;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-inter);
+}
+.header12 {
+  position: absolute;
+  height: 94%;
+  width: 100%;
+  top: 3%;
+  right: 0;
+  bottom: 3%;
+  left: 0;
+  font-family: var(--text);
+}
+.cart-2-icon12,
+.top-bar12 {
+  position: absolute;
+  height: 100px;
+}
+.cart-2-icon12 {
+  top: 0;
+  left: 1156px;
+  width: 161.94px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.top-bar12 {
+  top: 50px;
+  left: 71px;
+  width: 1586px;
+  font-size: var(--text-size);
+  font-family: var(--font-roboto);
+}
+.credit-card-payment-page1 {
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  box-shadow: 30px 30px 20px rgba(0, 0, 0, 0.25);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 100%;
+  height: 1117px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-lexend-deca);
+}
+
+input[type="text"]{
+  font-size: 20px;
+  opacity: 1;
+}
+
+.searchcod {
+  position: absolute;
+  top: 20px;
+  left: 1354px;
+  width: 250px;
+  height: 50px;
+  overflow: hidden;
+  opacity: 0.5;
+  border:0px;
+}
+
+.card-number {
+  position: absolute;
+  top: 280px;
+  left: 710px;
+  width: 250px;
+  height: 50px;
+  opacity: 1;
+  border:0px;
+}
+
+.password14{
+  position: absolute;
+  line-height: 20px;
+  display: inline-block;
+  height: 10;
+  width: 30;
+  top: 60%;
+  left: 80%;
+  opacity: 1;
+}
+
+.expiry-date{
+  position: absolute;
+  top: 400px;
+  left: 710px;
+  width: 250px;
+  height: 50px;
+  opacity: 1;
+  border:0px; 
+}
+
+.password13{
+  position: absolute;
+  top: 400px;
+  left: 1020px;
+  width: 250px;
+  height: 50px;
+  opacity: 1;
+  border:0px; 
+}

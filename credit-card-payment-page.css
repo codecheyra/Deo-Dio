@@ -1,0 +1,502 @@
+.credit-card-payment-page-child {
+  position: absolute;
+  top: 803px;
+  left: 549px;
+  width: 377px;
+  height: 377px;
+}
+.credit-card-payment-page-item {
+  position: absolute;
+  top: 405px;
+  left: 749px;
+  width: 567px;
+  height: 567px;
+}
+.credit-card-payment-page-inner,
+.delivery-1-icon {
+  position: absolute;
+  top: 0;
+  left: 1012px;
+  width: 998px;
+  height: 998px;
+}
+.delivery-1-icon {
+  top: 301px;
+  left: 0;
+  width: 480.12px;
+  height: 367px;
+  object-fit: cover;
+}
+.div3,
+.payment {
+  position: absolute;
+  display: inline-block;
+}
+.payment {
+  top: 0;
+  left: 746px;
+  font-size: var(--font-size-45xl);
+  line-height: 70px;
+  font-family: var(--font-poppins);
+  background: linear-gradient(90deg, #9b77e7, #1600a0 99.99%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 361.07px;
+  height: 70px;
+}
+.div3 {
+  top: 152px;
+  left: 654px;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslategray);
+  width: 591px;
+  height: 22.76px;
+}
+.username1 {
+  position: absolute;
+  height: 44.44%;
+  width: 19.57%;
+  top: 26.67%;
+  left: 6%;
+  line-height: 20px;
+  display: none;
+  opacity: 0.5;
+}
+.username,
+.username2 {
+  position: absolute;
+  top: 274px;
+  left: 712px;
+  width: 510.95px;
+  height: 51.21px;
+  font-size: var(--font-size-sm);
+}
+.username2 {
+  top: 503px;
+  left: 715px;
+}
+.div4 {
+  position: absolute;
+  top: 290px;
+  left: 720px;
+  line-height: 20px;
+  display: inline-block;
+  width: 263px;
+  height: 21px;
+}
+.dd-yyyy,
+.div4,
+.qwerty {
+  color: var(--color-gray-300);
+}
+.qwerty {
+  position: absolute;
+  top: 515px;
+  left: 723px;
+  line-height: 20px;
+  display: inline-block;
+  width: 500px;
+  height: 39px;
+}
+.dd-yyyy {
+  top: 401px;
+  left: 722px;
+  width: 121px;
+  height: 15px;
+}
+.dd-yyyy,
+.div5,
+.password1 {
+  position: absolute;
+  line-height: 20px;
+  display: inline-block;
+}
+.div5 {
+  top: 402px;
+  left: 1004px;
+  color: var(--color-gray-300);
+  width: 66px;
+  height: 22px;
+}
+.password1 {
+  height: 44.44%;
+  width: 19.57%;
+  top: 26.67%;
+  left: 6%;
+  opacity: 0.5;
+}
+.password,
+.password2 {
+  position: absolute;
+  top: 395px;
+  left: 706px;
+  width: 221px;
+  height: 32px;
+  font-size: var(--font-size-sm);
+}
+.password2 {
+  top: 396px;
+  left: 988px;
+}
+.rectangle10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(90deg, #9b77e7, #1600a0 99.99%);
+  width: 510.95px;
+  height: 51.21px;
+}
+.pay-1000 {
+  position: absolute;
+  top: 15px;
+  left: 170px;
+  line-height: 20px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 193px;
+  height: 16px;
+}
+.login-btn2 {
+  position: absolute;
+  top: 618px;
+  left: 720px;
+  width: 510.95px;
+  height: 51.21px;
+  cursor: pointer;
+}
+.card-number {
+  top: 242px;
+  left: 706px;
+  display: inline-block;
+  width: 137px;
+  height: 17px;
+}
+.card-number,
+.cvv,
+.expiry-date,
+.name-as-on {
+  position: absolute;
+  font-size: var(--font-size-xl);
+  line-height: 20px;
+}
+.name-as-on {
+  top: 471px;
+  left: 709px;
+  display: inline-block;
+  width: 173px;
+  height: 17px;
+}
+.cvv,
+.expiry-date {
+  top: 360px;
+  left: 706px;
+}
+.cvv {
+  top: 361px;
+  left: 1023px;
+}
+.delivery-1-parent {
+  position: absolute;
+  top: 158px;
+  left: 83px;
+  width: 1245px;
+  height: 669.21px;
+  text-align: center;
+}
+.products3 {
+  position: relative;
+}
+.option3 {
+  position: absolute;
+  height: 94.68%;
+  top: 2.66%;
+  bottom: 2.66%;
+  left: calc(50% - 209px);
+  border-radius: var(--br-15xl);
+  background-color: var(--color-plum);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-6xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.vector-icon {
+  position: absolute;
+  height: 14.81%;
+  width: 8.82%;
+  top: 42.59%;
+  right: 2.01%;
+  bottom: 42.59%;
+  left: 89.16%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  display: none;
+}
+.option4,
+.option5,
+.option6 {
+  position: absolute;
+  height: 25%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 75%;
+  left: 0;
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-6xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.option5,
+.option6 {
+  top: 25%;
+  bottom: 50%;
+  font-size: var(--font-size-13xl);
+}
+.option6 {
+  top: 50%;
+  bottom: 25%;
+}
+.combined,
+.option-parent,
+.option7 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.option7 {
+  height: 25%;
+  top: 75%;
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-6xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.combined,
+.option-parent {
+  height: 100%;
+  top: 0;
+}
+.combined {
+  height: 400%;
+  width: 143.41%;
+  top: 97.87%;
+  right: -3.3%;
+  bottom: -397.87%;
+  left: -40.11%;
+  font-size: var(--font-size-10xl);
+}
+.dropdown-menu-comp3 {
+  position: absolute;
+  top: 279px;
+  left: 778px;
+  width: 341px;
+  height: 94px;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-inter);
+}
+.credit-card-payment-page-child1 {
+  position: absolute;
+  height: 2.09%;
+  width: 2.21%;
+  top: 27.91%;
+  right: 34.71%;
+  bottom: 70%;
+  left: 63.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.contact-us3,
+.help-support3,
+.home4 {
+  position: absolute;
+  top: 0;
+  font-weight: 500;
+}
+.home4 {
+  left: 0;
+  cursor: pointer;
+}
+.contact-us3,
+.help-support3 {
+  left: 342px;
+}
+.contact-us3 {
+  left: 587px;
+}
+.group-div,
+.header-child2 {
+  position: absolute;
+  top: 35px;
+  left: 309px;
+  width: 736px;
+  height: 29px;
+}
+.header-child2 {
+  height: 58.97%;
+  width: 5.3%;
+  top: 8.51%;
+  right: 94.7%;
+  bottom: 32.52%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.deo-dio7 {
+  margin: 0;
+}
+.deo-dio6 {
+  position: absolute;
+  top: 7px;
+  left: 82px;
+  letter-spacing: 0.04em;
+  line-height: 70px;
+  font-weight: 900;
+  display: inline-block;
+  width: 180px;
+  height: 73px;
+}
+.phmagnifying-glass-icon3 {
+  position: absolute;
+  top: 20px;
+  left: 1354px;
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+}
+.header-child3 {
+  position: absolute;
+  top: 13px;
+  left: 1354px;
+  background-color: var(--color-darkgray);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 232px;
+  height: 51px;
+}
+.user-profile-png-free-download-icon3 {
+  position: absolute;
+  top: 21px;
+  left: 1097px;
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.option8 {
+  position: absolute;
+  height: 94.68%;
+  top: 2.66%;
+  bottom: 2.66%;
+  left: calc(50% - 88.5px);
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-6xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.dropdown-menu-compdefaultno-child1 {
+  position: absolute;
+  height: 18.83%;
+  width: 10.25%;
+  top: 41.77%;
+  right: 1.29%;
+  bottom: 39.4%;
+  left: 88.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dropdown-menu-compdefaultno4 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  cursor: pointer;
+}
+.dropdown-menu-comp4 {
+  position: absolute;
+  top: 0;
+  left: 421px;
+  width: 182px;
+  height: 94px;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-inter);
+}
+.header3 {
+  position: absolute;
+  height: 94%;
+  width: 100%;
+  top: 3%;
+  right: 0;
+  bottom: 3%;
+  left: 0;
+  font-family: var(--text);
+}
+.cart-2-icon3,
+.top-bar3 {
+  position: absolute;
+  height: 100px;
+}
+.cart-2-icon3 {
+  top: 0;
+  left: 1156px;
+  width: 161.94px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.top-bar3 {
+  top: 50px;
+  left: 71px;
+  width: 1586px;
+  font-size: var(--text-size);
+  font-family: var(--font-roboto);
+}
+.credit-card-payment-page {
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  box-shadow: 30px 30px 20px rgba(0, 0, 0, 0.25);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 100%;
+  height: 1117px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-lexend-deca);
+}
+
+input[type="text"]{
+  font-size: 20px;
+  opacity: 1;
+}
+
+.searchcod {
+  position: absolute;
+  top: 20px;
+  left: 1354px;
+  width: 250px;
+  height: 50px;
+  overflow: hidden;
+  opacity: 0.5;
+  border:0px;
+}

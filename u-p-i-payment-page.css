@@ -1,0 +1,730 @@
+.debit-card-payment-page-child3,
+.group-child1 {
+  position: absolute;
+  top: -364px;
+  left: 1012px;
+  width: 998px;
+  height: 998px;
+}
+.group-child1 {
+  height: 77.21%;
+  width: 6.14%;
+  top: 10.96%;
+  right: 93.86%;
+  bottom: 11.83%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.deo-dio23 {
+  margin: 0;
+}
+.deo-dio22 {
+  position: absolute;
+  top: 0;
+  left: 82px;
+  letter-spacing: 0.04em;
+  line-height: 70px;
+  font-weight: 900;
+  display: inline-block;
+  width: 180px;
+  height: 73px;
+}
+.home12 {
+  cursor: pointer;
+}
+.about-us,
+.home12 {
+  position: relative;
+  font-weight: 500;
+}
+.home-parent8,
+.vector-icon1 {
+  position: absolute;
+  overflow: hidden;
+}
+.home-parent8 {
+  top: 22px;
+  left: 318px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  gap: var(--gap-11xl);
+  font-family: var(--font-roboto);
+}
+.vector-icon1 {
+  height: 55.76%;
+  width: 2.98%;
+  top: 21.92%;
+  right: 13.65%;
+  bottom: 22.32%;
+  left: 83.38%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.group-child2 {
+  position: absolute;
+  top: 11px;
+  left: 1136px;
+  background-color: var(--color-darkgray);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 232px;
+  height: 51px;
+}
+.group-parent3 {
+  position: absolute;
+  height: 77.66%;
+  width: 100%;
+  top: 14.89%;
+  right: 0;
+  bottom: 7.45%;
+  left: 0;
+}
+.products15 {
+  position: relative;
+}
+.option18 {
+  position: absolute;
+  height: 94.68%;
+  top: 2.66%;
+  bottom: 2.66%;
+  left: calc(50% - 88.5px);
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-6xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.dropdown-menu-compdefaultno-child11 {
+  position: absolute;
+  height: 14.81%;
+  width: 8.82%;
+  top: 42.59%;
+  right: 2.01%;
+  bottom: 42.59%;
+  left: 89.16%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dropdown-menu-compdefaultno14 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.dropdown-menu-comp14,
+.group-parent2 {
+  position: absolute;
+  top: 0;
+  left: 392px;
+  width: 182px;
+  height: 94px;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-inter);
+}
+.group-parent2 {
+  height: 12.06%;
+  width: 95.2%;
+  right: 0;
+  bottom: 87.94%;
+  left: 4.8%;
+  text-align: left;
+  font-size: var(--text-size);
+  font-family: var(--text);
+}
+.delivery-1-icon2 {
+  position: absolute;
+  top: 246px;
+  left: 0;
+  width: 556px;
+  height: 425px;
+  object-fit: cover;
+}
+.div47,
+.payment2 {
+  position: absolute;
+  display: inline-block;
+}
+.payment2 {
+  top: 110px;
+  left: 742px;
+  font-size: var(--font-size-45xl);
+  line-height: 70px;
+  font-family: var(--font-poppins);
+  background: linear-gradient(90deg, #9b77e7, #1600a0 99.99%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 361.07px;
+  height: 70px;
+}
+.div47 {
+  top: 262px;
+  left: 650px;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslategray);
+  width: 591px;
+  height: 22.76px;
+}
+.username9 {
+  position: absolute;
+  height: 44.44%;
+  width: 19.57%;
+  top: 26.67%;
+  left: 6%;
+  line-height: 20px;
+  display: none;
+  opacity: 0.5;
+}
+.username10,
+.username8 {
+  position: absolute;
+  top: 384px;
+  left: 708px;
+  width: 510.95px;
+  height: 51.21px;
+  font-size: var(--font-size-sm);
+}
+.username10 {
+  top: 613px;
+  left: 711px;
+}
+.div48 {
+  position: absolute;
+  top: 400px;
+  left: 716px;
+  line-height: 20px;
+  display: inline-block;
+  width: 263px;
+  height: 21px;
+}
+.dd-yyyy2,
+.div48,
+.qwerty2 {
+  color: var(--color-gray-300);
+}
+.qwerty2 {
+  position: absolute;
+  top: 625px;
+  left: 719px;
+  line-height: 20px;
+  display: inline-block;
+  width: 500px;
+  height: 39px;
+}
+.dd-yyyy2 {
+  top: 511px;
+  left: 718px;
+  width: 121px;
+  height: 15px;
+}
+.dd-yyyy2,
+.div49,
+.password9 {
+  position: absolute;
+  line-height: 20px;
+  display: inline-block;
+}
+.div49 {
+  top: 512px;
+  left: 1000px;
+  color: var(--color-gray-300);
+  width: 66px;
+  height: 22px;
+}
+.password9 {
+  height: 44.44%;
+  width: 19.57%;
+  top: 26.67%;
+  left: 6%;
+  opacity: 0.5;
+}
+.password10,
+.password8 {
+  position: absolute;
+  top: 505px;
+  left: 702px;
+  width: 221px;
+  height: 32px;
+  font-size: var(--font-size-sm);
+}
+.password10 {
+  top: 506px;
+  left: 984px;
+}
+.rectangle30 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(90deg, #9b77e7, #1600a0 99.99%);
+  width: 510.95px;
+  height: 51.21px;
+}
+.pay-10002 {
+  position: absolute;
+  top: 15px;
+  left: 170px;
+  line-height: 20px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 193px;
+  height: 16px;
+}
+.login-btn10 {
+  position: absolute;
+  top: 728px;
+  left: 716px;
+  width: 510.95px;
+  height: 51.21px;
+  cursor: pointer;
+}
+.card-number2 {
+  top: 352px;
+  left: 702px;
+  display: inline-block;
+  width: 137px;
+  height: 17px;
+}
+.card-number2,
+.cvv2,
+.expiry-date2,
+.name-as-on2 {
+  position: absolute;
+  font-size: var(--font-size-xl);
+  line-height: 20px;
+}
+.name-as-on2 {
+  top: 581px;
+  left: 705px;
+  display: inline-block;
+  width: 173px;
+  height: 17px;
+}
+.cvv2,
+.expiry-date2 {
+  top: 470px;
+  left: 702px;
+}
+.cvv2 {
+  top: 471px;
+  left: 1019px;
+}
+.group-parent1 {
+  position: absolute;
+  height: 69.76%;
+  width: 83.16%;
+  top: 4.3%;
+  right: 11.81%;
+  bottom: 25.94%;
+  left: 5.03%;
+}
+.option19 {
+  position: absolute;
+  height: 111.25%;
+  top: -5.63%;
+  bottom: -5.62%;
+  left: calc(50% - 233px);
+  border-radius: var(--br-15xl);
+  background-color: var(--color-plum);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-6xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.dropdown-menu-comp15 {
+  position: absolute;
+  top: 270px;
+  left: 771px;
+  width: 558px;
+  height: 80px;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-inter);
+}
+.debit-card-payment-page1 {
+  position: absolute;
+  top: -1155px;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  box-shadow: 30px 30px 20px rgba(0, 0, 0, 0.25);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 1728px;
+  height: 1117px;
+  overflow: hidden;
+}
+.upi-payment-page-child {
+  position: absolute;
+  top: 803px;
+  left: 549px;
+  width: 377px;
+  height: 377px;
+}
+.upi-payment-page-item {
+  position: absolute;
+  top: 405px;
+  left: 749px;
+  width: 567px;
+  height: 567px;
+}
+.upi-payment-page-inner {
+  position: absolute;
+  top: 0;
+  left: 1012px;
+  width: 998px;
+  height: 998px;
+}
+.delivery-1-icon3 {
+  position: absolute;
+  top: 325px;
+  left: 0;
+  width: 480.12px;
+  height: 367px;
+  object-fit: cover;
+}
+.div50,
+.payment3 {
+  position: absolute;
+  display: inline-block;
+}
+.payment3 {
+  top: 0;
+  left: 734px;
+  font-size: var(--font-size-45xl);
+  line-height: 70px;
+  font-family: var(--font-poppins);
+  background: linear-gradient(90deg, #9b77e7, #1600a0 99.99%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 361.07px;
+  height: 70px;
+}
+.div50 {
+  top: 152px;
+  left: 642px;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslategray);
+  width: 591px;
+  height: 22.76px;
+}
+.username12,
+.username14 {
+  position: absolute;
+  top: 274px;
+  left: 700px;
+  width: 510.95px;
+  height: 51.21px;
+  font-size: var(--font-size-sm);
+}
+.username14 {
+  top: 388px;
+}
+.div51,
+.qwerty3 {
+  position: absolute;
+  top: 290px;
+  left: 708px;
+  line-height: 20px;
+  color: var(--color-gray-300);
+  display: inline-block;
+  width: 263px;
+  height: 21px;
+}
+.qwerty3 {
+  top: 400px;
+  width: 500px;
+  height: 39px;
+}
+.login-btn11 {
+  position: absolute;
+  top: 561px;
+  left: 703px;
+  width: 510.95px;
+  height: 51.21px;
+  cursor: pointer;
+}
+.rectangle34 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(90deg, #9b77e7, #1600a0 99.99%);
+  width: 233px;
+  height: 50px;
+}
+.verify {
+  position: absolute;
+  top: 14.65px;
+  left: 77.52px;
+  line-height: 20px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 88.01px;
+  height: 15.62px;
+}
+.login-btn12,
+.upi-id {
+  position: absolute;
+  top: 275px;
+  left: 1226px;
+  width: 233px;
+  height: 50px;
+}
+.upi-id {
+  top: 242px;
+  left: 694px;
+  font-size: var(--font-size-xl);
+  line-height: 20px;
+  display: inline-block;
+  width: 137px;
+  height: 17px;
+}
+.group-child3,
+.name {
+  position: absolute;
+  height: 11px;
+}
+.name {
+  top: 356px;
+  left: 694px;
+  font-size: var(--font-size-xl);
+  line-height: 20px;
+  display: inline-block;
+  width: 101px;
+}
+.group-child3 {
+  top: 157px;
+  left: 1141px;
+  background-color: var(--color-plum);
+  width: 12px;
+}
+.delivery-1-container,
+.upi-payment-page-inner1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1459px;
+  height: 692px;
+}
+.upi-payment-page-inner1 {
+  top: 158px;
+  left: 95px;
+}
+.option20 {
+  position: absolute;
+  height: 111.25%;
+  top: -5.63%;
+  bottom: -5.62%;
+  left: calc(50% - 200.5px);
+  border-radius: var(--br-15xl);
+  background-color: var(--color-plum);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-6xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.dropdown-menu-compdefaultno-child13 {
+  position: absolute;
+  height: 18.6%;
+  width: 9.06%;
+  top: 40.89%;
+  right: 1.89%;
+  bottom: 40.51%;
+  left: 89.05%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dropdown-menu-comp16 {
+  position: absolute;
+  top: 275px;
+  left: 710px;
+  width: 558px;
+  height: 80px;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-inter);
+}
+.contact-us12,
+.help-support12,
+.home13 {
+  position: absolute;
+  top: 0;
+  font-weight: 500;
+}
+.home13 {
+  left: 0;
+  cursor: pointer;
+}
+.contact-us12,
+.help-support12 {
+  left: 342px;
+}
+.contact-us12 {
+  left: 587px;
+}
+.header-child18,
+.home-parent9 {
+  position: absolute;
+  top: 35px;
+  left: 309px;
+  width: 736px;
+  height: 29px;
+}
+.header-child18 {
+  height: 58.97%;
+  width: 5.3%;
+  top: 8.51%;
+  right: 94.7%;
+  bottom: 32.52%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.deo-dio24 {
+  position: absolute;
+  top: 7px;
+  left: 82px;
+  letter-spacing: 0.04em;
+  line-height: 70px;
+  font-weight: 900;
+  display: inline-block;
+  width: 180px;
+  height: 73px;
+}
+.phmagnifying-glass-icon11 {
+  position: absolute;
+  top: 20px;
+  left: 1354px;
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+}
+.header-child19 {
+  position: absolute;
+  top: 13px;
+  left: 1354px;
+  background-color: var(--color-darkgray);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 232px;
+  height: 51px;
+}
+.user-profile-png-free-download-icon11 {
+  position: absolute;
+  top: 21px;
+  left: 1097px;
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.dropdown-menu-compdefaultno-child14 {
+  position: absolute;
+  height: 18.83%;
+  width: 10.25%;
+  top: 41.77%;
+  right: 1.29%;
+  bottom: 39.4%;
+  left: 88.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dropdown-menu-compdefaultno17 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  cursor: pointer;
+}
+.dropdown-menu-comp17 {
+  position: absolute;
+  top: 0;
+  left: 421px;
+  width: 182px;
+  height: 94px;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-inter);
+}
+.header11 {
+  position: absolute;
+  height: 94%;
+  width: 100%;
+  top: 3%;
+  right: 0;
+  bottom: 3%;
+  left: 0;
+  font-family: var(--text);
+}
+.cart-2-icon11,
+.top-bar11 {
+  position: absolute;
+  height: 100px;
+}
+.cart-2-icon11 {
+  top: 0;
+  left: 1156px;
+  width: 161.94px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.top-bar11 {
+  top: 50px;
+  left: 71px;
+  width: 1586px;
+  text-align: left;
+  font-size: var(--text-size);
+  font-family: var(--font-roboto);
+}
+.upi-payment-page {
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  box-shadow: 30px 30px 20px rgba(0, 0, 0, 0.25);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 100%;
+  height: 1117px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-lexend-deca);
+}
+
+input[type="text"]{
+  font-size: 20px;
+  opacity: 1;
+}
+
+.searchcod {
+  position: absolute;
+  top: 20px;
+  left: 1354px;
+  width: 250px;
+  height: 50px;
+  overflow: hidden;
+  opacity: 0.5;
+  border:0px;
+}

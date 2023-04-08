@@ -1,0 +1,411 @@
+.smartphone-page-after-login-child {
+  position: absolute;
+  top: 803px;
+  left: 549px;
+  width: 377px;
+  height: 377px;
+}
+.smartphone-page-after-login-item {
+  position: absolute;
+  top: 405px;
+  left: 749px;
+  width: 567px;
+  height: 567px;
+}
+.smartphone-page-after-login-inner {
+  position: absolute;
+  top: 3169px;
+  left: 549px;
+  width: 377px;
+  height: 377px;
+}
+.smartphone-page-after-login-child1 {
+  position: absolute;
+  top: 2771px;
+  left: 749px;
+  width: 567px;
+  height: 567px;
+}
+.smartphone-page-after-login-child2,
+.smartphone-page-after-login-child3 {
+  position: absolute;
+  top: 2002px;
+  left: 1012px;
+  width: 998px;
+  height: 998px;
+}
+.smartphone-page-after-login-child3 {
+  top: 0;
+}
+.smartphone-page-after-login-child4 {
+  position: absolute;
+  top: 5448px;
+  left: 499px;
+  width: 377px;
+  height: 377px;
+}
+.smartphone-page-after-login-child5 {
+  position: absolute;
+  top: 5050px;
+  left: 699px;
+  width: 567px;
+  height: 567px;
+}
+.smartphone-page-after-login-child6 {
+  position: absolute;
+  top: 4281px;
+  left: 962px;
+  width: 998px;
+  height: 998px;
+}
+.sony-camera-1-120 {
+  position: absolute;
+  height: 100%;
+  width: 26.68%;
+  top: 0;
+  right: 73.32%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.div29,
+.icon23 {
+  position: absolute;
+}
+.icon23 {
+  height: 17.97%;
+  width: 15.46%;
+  top: 48.04%;
+  right: 45.35%;
+  bottom: 33.99%;
+  left: 39.19%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.div29 {
+  top: 55.23%;
+  left: 55.4%;
+  line-height: 116.02%;
+}
+.span40 {
+  font-size: var(--font-size-mid);
+  text-decoration: line-through;
+  color: var(--color-gray-200);
+}
+.off41 {
+  font-size: var(--font-size-lg);
+}
+.off40 {
+  position: absolute;
+  width: 14.5%;
+  top: 67.97%;
+  left: 35.91%;
+  line-height: 116.02%;
+  display: inline-block;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.get-it-by20 {
+  margin: 0;
+}
+.get-it-by-container20 {
+  position: absolute;
+  top: 82.35%;
+  left: 35.64%;
+  line-height: 116.02%;
+}
+.blank-line20 {
+  margin: 0;
+}
+.blank-line20,
+.span41 {
+  font-size: var(--font-size-4xl);
+}
+.p20 {
+  margin: 0;
+  font-size: var(--font-size-8xl);
+}
+.sony-alpha-ilce-7m4-container20 {
+  position: absolute;
+  height: 46.73%;
+  width: 64.43%;
+  top: 0;
+  left: 35.57%;
+  line-height: 116.02%;
+  display: inline-block;
+  font-size: var(--font-size-11xl);
+}
+.sony-camera-1-1-parent18,
+.sony-camera-1-1-parent19 {
+  position: absolute;
+  top: 3728px;
+  left: 114px;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1462px;
+  height: 306px;
+  cursor: pointer;
+}
+.sony-camera-1-1-parent19 {
+  top: 3358px;
+  left: 131px;
+}
+.sony-camera-1-1-parent20,
+.sony-camera-1-1-parent21,
+.sony-camera-1-1-parent22,
+.sony-camera-1-1-parent23,
+.sony-camera-1-1-parent24,
+.sony-camera-1-1-parent25,
+.sony-camera-1-1-parent26,
+.sony-camera-1-1-parent27 {
+  position: absolute;
+  top: 902px;
+  left: 159px;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1462px;
+  height: 306px;
+  cursor: pointer;
+}
+.sony-camera-1-1-parent21,
+.sony-camera-1-1-parent22,
+.sony-camera-1-1-parent23,
+.sony-camera-1-1-parent24,
+.sony-camera-1-1-parent25,
+.sony-camera-1-1-parent26,
+.sony-camera-1-1-parent27 {
+  top: 560px;
+  left: 140px;
+}
+.sony-camera-1-1-parent22,
+.sony-camera-1-1-parent23,
+.sony-camera-1-1-parent24,
+.sony-camera-1-1-parent25,
+.sony-camera-1-1-parent26,
+.sony-camera-1-1-parent27 {
+  top: 1229px;
+  left: 165px;
+}
+.sony-camera-1-1-parent23,
+.sony-camera-1-1-parent24,
+.sony-camera-1-1-parent25,
+.sony-camera-1-1-parent26,
+.sony-camera-1-1-parent27 {
+  top: 1584px;
+  left: 159px;
+}
+.sony-camera-1-1-parent24,
+.sony-camera-1-1-parent25,
+.sony-camera-1-1-parent26,
+.sony-camera-1-1-parent27 {
+  top: 1939px;
+}
+.sony-camera-1-1-parent25,
+.sony-camera-1-1-parent26,
+.sony-camera-1-1-parent27 {
+  top: 2281px;
+}
+.sony-camera-1-1-parent26,
+.sony-camera-1-1-parent27 {
+  top: 2623px;
+}
+.sony-camera-1-1-parent27 {
+  top: 2965px;
+  left: 133px;
+}
+.smartphone-page-after-login-child7 {
+  position: absolute;
+  top: 4424px;
+  left: 601px;
+  width: 550px;
+  height: 53px;
+}
+.contact-us7,
+.help-support7,
+.home8 {
+  position: absolute;
+  top: 0;
+  font-weight: 500;
+}
+.home8 {
+  left: 0;
+  cursor: pointer;
+}
+.contact-us7,
+.help-support7 {
+  left: 342px;
+}
+.contact-us7 {
+  left: 587px;
+}
+.header-child10,
+.home-parent4 {
+  position: absolute;
+  top: 35px;
+  left: 309px;
+  width: 736px;
+  height: 29px;
+}
+.header-child10 {
+  height: 58.97%;
+  width: 5.3%;
+  top: 8.51%;
+  right: 94.7%;
+  bottom: 32.52%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.deo-dio14 {
+  position: absolute;
+  top: 7px;
+  left: 82px;
+  letter-spacing: 0.04em;
+  line-height: 70px;
+  font-weight: 900;
+  display: inline-block;
+  width: 180px;
+  height: 73px;
+}
+.phmagnifying-glass-icon7 {
+  position: absolute;
+  top: 20px;
+  left: 1354px;
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+}
+.header-child11 {
+  position: absolute;
+  top: 13px;
+  left: 1354px;
+  background-color: var(--color-darkgray);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 232px;
+  height: 51px;
+}
+.user-profile-png-free-download-icon7 {
+  position: absolute;
+  top: 21px;
+  left: 1097px;
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.products10 {
+  position: relative;
+}
+.option14 {
+  position: absolute;
+  height: 94.68%;
+  top: 2.66%;
+  bottom: 2.66%;
+  left: calc(50% - 88.5px);
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-6xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.dropdown-menu-compdefaultno-child7 {
+  position: absolute;
+  height: 18.83%;
+  width: 10.25%;
+  top: 41.77%;
+  right: 1.29%;
+  bottom: 39.4%;
+  left: 88.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dropdown-menu-compdefaultno10 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.dropdown-menu-comp10 {
+  position: absolute;
+  top: 0;
+  left: 421px;
+  width: 182px;
+  height: 94px;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-inter);
+}
+.header7 {
+  position: absolute;
+  height: 94%;
+  width: 100%;
+  top: 3%;
+  right: 0;
+  bottom: 3%;
+  left: 0;
+  font-family: var(--text);
+}
+.cart-2-icon7,
+.top-bar7 {
+  position: absolute;
+  height: 100px;
+}
+.cart-2-icon7 {
+  top: 0;
+  left: 1156px;
+  width: 161.94px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.top-bar7 {
+  top: 50px;
+  left: 71px;
+  width: 1586px;
+  font-size: var(--text-size);
+  font-family: var(--font-roboto);
+}
+.smartphone-page-after-login {
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  box-shadow: 30px 30px 20px rgba(0, 0, 0, 0.25);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 100%;
+  height: 5763px;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--font-size-4xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+
+input[type="text"]{
+  font-size: 20px;
+  opacity: 1;
+}
+
+.searchcod {
+  position: absolute;
+  top: 20px;
+  left: 1354px;
+  width: 250px;
+  height: 50px;
+  overflow: hidden;
+  opacity: 0.5;
+  border:0px;
+}
